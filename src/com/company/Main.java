@@ -24,7 +24,7 @@ public class Main {
         //but look how getFlightDescription worked..
         //this "automation" works for @override methods only!
 
-
+        //coś tam
         //but with casting... will work the same way!
         System.out.println("\n-- Example 3 --\n");
         ExtendedFlight fe2 = (ExtendedFlight) someFlight;
